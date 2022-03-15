@@ -22,4 +22,4 @@ Don't forget to download the repo and try it yourself and get to practise.
 
 #### How it looks like
 
-In the screenshots folder you will find how it should look like except for the sidebar picter i changed that :)
+In the screenshots folder you will find how it should look like except for the sidebar image I have changed that :)
