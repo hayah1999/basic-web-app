@@ -16,6 +16,8 @@ This was just to show case what we have learned so far in the course.
 
 create a database with single table as it's a simple web app to practise login and register users
  - The table consists of email , username , password , password
+
+
 Don't forget to download the repo and try it yourself and get to practise.
 
 #### How it looks like
